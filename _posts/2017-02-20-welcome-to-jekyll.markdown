@@ -1,25 +1,44 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Learning Resources"
 date:   2017-02-20 19:31:50 -0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# Linear Algebra
 
-Jekyll also offers powerful support for code snippets:
+[Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+# Calculus
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+[Khan Academy - Calculus](https://www.khanacademy.org/math/calculus-home?t=classes)
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+# Statistics
+
+[Khan Academy - Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)
+[Sebastian Thrun - Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+
+# Computer Science
+
+[MIT - Intro to Computer Science with Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+[Harvard - CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
+[Khan Academy - Computer Science](https://www.khanacademy.org/computing/computer-science)
+[MIT - Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+[MIT - Mathematics for Computer Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
+[MIT - LISP](https://www.youtube.com/playlist?list=PLD1CDF290815C750D)
+[Paul Graham - ANSI Common Lisp]()
+[Stanford - Machine Learning](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ)
+
+# Machine Learning
+
+[Carnegie Mellon - Machine Learning](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ)
+
+# Artificial Intelligence
+
+[Peter Norvig & Sebastian Thrun](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+[MIT - Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+[UC Berkeley - Intro to AI](http://ai.berkeley.edu/lecture_videos.html)
+
+# Talks
+
+[Andrew Ng - Artifical Intelligence is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc)

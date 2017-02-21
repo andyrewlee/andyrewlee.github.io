@@ -27,8 +27,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "//andyrewlee.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+  - name:           "Github"
+    href:           "//github.com/andyrewlee"
 
 # Sass
 sass:

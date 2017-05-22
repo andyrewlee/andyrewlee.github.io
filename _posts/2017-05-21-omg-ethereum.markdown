@@ -40,8 +40,7 @@ charge, it's always going to get corrupted.
 Ethereum allows developers to just plug in blockchain technology to their apps.
 Facebook is going to topple at the hands of a decentralized social media...
 Dropbox is going to topple at the hands of decentralized file system...oh and
-even Amazon will fall at the hands of a peer to peer market.
-
-I'm stoked that I can use this technology. I know the chances of me being part
-of a unicorn project is close to none, but the fact that the chance is there is
-what gets me up and AMPED.
+even Amazon will fall at the hands of a peer to peer market.I'm stoked that I
+can use this technology. I know the chances of me being part of a unicorn
+project is close to none, but the fact that the chance is there is what gets me
+up and AMPED.

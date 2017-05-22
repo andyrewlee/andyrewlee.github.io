@@ -1,5 +1,3 @@
-# Omg Ethereum
-
 I am so hyped that I feel the need to express myself. This doesn't happen very
 often. Now what am I hyped about? I am hyped about blockchain. More specifically
 Ethereum.
@@ -40,8 +38,8 @@ charge, it's always going to get corrupted.
 ## The Next Unicorn
 
 Ethereum allows developers to just plug in blockchain technology to their apps.
-Facebook is going to topple at the hands of a decentralized social media,
-Dropbox is going to topple at the hands of decentralized file system, oh and
+Facebook is going to topple at the hands of a decentralized social media...
+Dropbox is going to topple at the hands of decentralized file system...oh and
 even Amazon will fall at the hands of a peer to peer market.
 
 I'm stoked that I can use this technology. I know the chances of me being part

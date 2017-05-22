@@ -13,7 +13,7 @@ can't be shut down even if I wanted it to.
 ## World View
 
 I miss how I was when I was younger. I briefly remember the IMF in Korea where
-everyone lost their money. I also remember the Great Recession, oh yea and some
+everyone lost their money. I also remember the Great Recession...oh yea and some
 crazy leaks that made me extremely skeptical about society as a whole. And it
 sure seems like the world will witness even more chaos until my time on Earth
 ends.

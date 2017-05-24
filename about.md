@@ -3,4 +3,5 @@ title: About
 permalink: /about/
 ---
 
-Blog about Ethereum and machine learning
+Welcome to my learning diary of sorts. I rant about about technologies that are
+interesting to me at the moment.
